@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35514.174 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{FC478722-F3F8-433A-9068-EF36BEFC2AF8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{D0EF5E0B-01FA-40BD-9C80-96B876D6ACA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint1.Task0.V23", "Tyuiu.VumaR.Sprint1.Task0.V23\Tyuiu.VumaR.Sprint1.Task0.V23.csproj", "{E048C993-E7A5-4D21-8CAF-12114CDB2694}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint4.Task0.V23", "Tyuiu.VumaR.Sprint4.Task0.V23\Tyuiu.VumaR.Sprint4.Task0.V23.csproj", "{300CF378-B364-4854-AB1F-9576114360C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint1.Task0.V23.Lib", "Tyuiu.VumaR.Sprint1.Task0.V23.Lib\Tyuiu.VumaR.Sprint1.Task0.V23.Lib.csproj", "{C4435256-3560-49DB-9591-F73777BA0C3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint4.Task0.V23.Lib", "Tyuiu.VumaR.Sprint4.Task0.V23.Lib\Tyuiu.VumaR.Sprint4.Task0.V23.Lib.csproj", "{B2DCE360-A3BB-4B03-80CF-FEDF454FE77F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint1.Task0.V23.Test", "Tyuiu.VumaR.Sprint1.Task0.V23.Test\Tyuiu.VumaR.Sprint1.Task0.V23.Test.csproj", "{3EEDD4E0-4F19-4D12-BD9E-A0BC83CB97AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.VumaR.Sprint4.Task0.V23.Test", "Tyuiu.VumaR.Sprint4.Task0.V23.Test\Tyuiu.VumaR.Sprint4.Task0.V23.Test.csproj", "{6A46E490-D73F-45F9-B4DE-464DA7F8E638}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,25 +17,25 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E048C993-E7A5-4D21-8CAF-12114CDB2694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E048C993-E7A5-4D21-8CAF-12114CDB2694}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E048C993-E7A5-4D21-8CAF-12114CDB2694}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E048C993-E7A5-4D21-8CAF-12114CDB2694}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C4435256-3560-49DB-9591-F73777BA0C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4435256-3560-49DB-9591-F73777BA0C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4435256-3560-49DB-9591-F73777BA0C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4435256-3560-49DB-9591-F73777BA0C3C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3EEDD4E0-4F19-4D12-BD9E-A0BC83CB97AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3EEDD4E0-4F19-4D12-BD9E-A0BC83CB97AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3EEDD4E0-4F19-4D12-BD9E-A0BC83CB97AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3EEDD4E0-4F19-4D12-BD9E-A0BC83CB97AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{300CF378-B364-4854-AB1F-9576114360C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300CF378-B364-4854-AB1F-9576114360C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300CF378-B364-4854-AB1F-9576114360C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300CF378-B364-4854-AB1F-9576114360C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2DCE360-A3BB-4B03-80CF-FEDF454FE77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DCE360-A3BB-4B03-80CF-FEDF454FE77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DCE360-A3BB-4B03-80CF-FEDF454FE77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DCE360-A3BB-4B03-80CF-FEDF454FE77F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A46E490-D73F-45F9-B4DE-464DA7F8E638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A46E490-D73F-45F9-B4DE-464DA7F8E638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A46E490-D73F-45F9-B4DE-464DA7F8E638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A46E490-D73F-45F9-B4DE-464DA7F8E638}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{E048C993-E7A5-4D21-8CAF-12114CDB2694} = {FC478722-F3F8-433A-9068-EF36BEFC2AF8}
-		{C4435256-3560-49DB-9591-F73777BA0C3C} = {FC478722-F3F8-433A-9068-EF36BEFC2AF8}
-		{3EEDD4E0-4F19-4D12-BD9E-A0BC83CB97AB} = {FC478722-F3F8-433A-9068-EF36BEFC2AF8}
+		{300CF378-B364-4854-AB1F-9576114360C9} = {D0EF5E0B-01FA-40BD-9C80-96B876D6ACA4}
+		{B2DCE360-A3BB-4B03-80CF-FEDF454FE77F} = {D0EF5E0B-01FA-40BD-9C80-96B876D6ACA4}
+		{6A46E490-D73F-45F9-B4DE-464DA7F8E638} = {D0EF5E0B-01FA-40BD-9C80-96B876D6ACA4}
 	EndGlobalSection
 EndGlobal

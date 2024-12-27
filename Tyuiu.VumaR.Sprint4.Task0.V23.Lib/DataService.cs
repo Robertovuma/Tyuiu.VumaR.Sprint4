@@ -1,7 +1,5 @@
-﻿
-
-using tyuiu.cources.programming.interfaces.Sprint4;
-namespace Tyuiu.VumaR.Sprint1.Task0.V23.Lib
+﻿using tyuiu.cources.programming.interfaces.Sprint4;
+namespace Tyuiu.VumaR.Sprint4.Task0.V23.Lib
 {
     public class DataService : ISprint4Task0V23
     {

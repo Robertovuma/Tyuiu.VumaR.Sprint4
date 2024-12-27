@@ -1,5 +1,6 @@
-﻿using Tyuiu.VumaR.Sprint1.Task0.V23.Lib;
-namespace Tyuiu.VumaR.Sprint1.Task0.V23.Test
+﻿using Tyuiu.VumaR.Sprint4.Task0.V23.Lib;
+
+namespace Tyuiu.VumaR.Sprint4.Task0.V23.Test
 {
     [TestClass]
     public sealed class Test1

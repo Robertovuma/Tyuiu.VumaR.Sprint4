@@ -1,6 +1,5 @@
-﻿using Tyuiu.VumaR.Sprint1.Task0.V23.Lib;
-
-namespace Tyuiu.VumaR.Sprint1.Task0.V23
+﻿using Tyuiu.VumaR.Sprint4.Task0.V23.Lib;
+namespace Tyuiu.VumaR.Sprint4.Task0.V23
 {
     internal class Program
     {
